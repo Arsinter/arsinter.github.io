@@ -1,6 +1,5 @@
 <span class='anchor' id='about-me'></span>
-# 🤗Biography
-I am an incoming MPhil student (starting Fall 2026) in [**Hong Kong University of Science and Technology(Guangzhou)**](https://www.hkust-gz.edu.cn/). Currently, I am a senior undergraduate student at [**Harbin Institute of Technology**](https://en.hit.edu.cn/), majoring in Internet of Things.
+Hi there! I am an incoming MPhil student (starting Fall 2026) in [**Hong Kong University of Science and Technology(Guangzhou)**](https://www.hkust-gz.edu.cn/). Currently, I am a senior undergraduate student at [**Harbin Institute of Technology**](https://en.hit.edu.cn/), majoring in Internet of Things.
 
 At present, I am mainly working under the guidance of Prof. Guobin Shen and Dr. Yang Yu. My current research focuses on low altitude system, with a broader enthusiasm for multi-modal drones surveillance.
 
