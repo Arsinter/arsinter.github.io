@@ -1,6 +1,6 @@
 <span class='anchor' id='about-me'></span>
-Hi there! I am an incoming MPhil student (starting Fall 2026) in [**Hong Kong University of Science and Technology(Guangzhou)**](https://www.hkust-gz.edu.cn/). Currently, I am a senior undergraduate student at [**Harbin Institute of Technology**](https://en.hit.edu.cn/), majoring in Internet of Things.
+Hi there! I am a $1^{st}$ MPhil student in [**Hong Kong University of Science and Technology(Guangzhou)**](https://www.hkust-gz.edu.cn/). Before that, I received my B.E. degree in IoT at Harbin Institute of Technology in 2026.
 
-At present, I am mainly working under the guidance of Prof. Guobin Shen and Dr. Yang Yu. My current research focuses on low altitude system, with a broader enthusiasm for multi-modal drones surveillance.
+At present, I am mainly working under the guidance of Prof. Guobin Shen and Dr. Yang Yu. My current research focuses on sparse sensing.
 
 If you are interested in any form of academic collaboration, please feel free to email me at **easondong03@gmail.com**.
