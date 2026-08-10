@@ -23,14 +23,14 @@ repository               : "Arsinter/arsinter.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "me.jpg"
+  avatar           : "me.jpeg"
   name             : "Yishen Dong | 董一燊"
   pronouns         : # example: "she/her"  
-  bio              : "Incoming MPhil student at Hong Kong University of Science and Technology(Guangzhou)"
+  bio              : "MPhil student at Hong Kong University of Science and Technology(Guangzhou)"
   location         : "Guangzhou, China"
-  employer         : "Harbin Institute of Technology"
+  employer         : "HKUSTGZ"
   uri              : # URL
-  email            : "easondong03@gmail.com" 
+  email            : "yishen.dong@connect.hkust-gz.edu.cn" 
 
   # Academic websites
   academia         : # URL
